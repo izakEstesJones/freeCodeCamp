@@ -113,13 +113,13 @@ Start by installing these prerequisite software.
 
 | Prerequisite                                | Version | Notes |
 | ------------------------------------------- | ------- | ----- |
-| [MongoDB Community Server](https://docs.mongodb.com/manual/administration/install-community/) | `3.6`   | [Release Notes](https://docs.mongodb.com/manual/release-notes/), Note: We currently on `3.6`, an [upgrade is planned](https://github.com/freeCodeCamp/freeCodeCamp/issues/18275).
+| [MongoDB Community Server](https://docs.mongodb.com/manual/administration/install-community/) | `3.6`   | [Release Notes](https://docs.mongodb.com/manual/release-notes/), Note: We are currently on `3.6`, an [upgrade is planned](https://github.com/freeCodeCamp/freeCodeCamp/issues/18275).
 | [Node.js](http://nodejs.org)                | `8.x`   | [LTS Schedule](https://github.com/nodejs/Release#release-schedule) |
 | npm (comes bundled with Node)               | `6.x`   | Does not have LTS releases, we use the version bundled with Node LTS |
 
 **Important:**
 
-We highly recommend updating to the latest stable releases a.k.a Long Term Support (LTS) versions of the above.
+We highly recommend updating to the latest stable releases (a.k.a Long Term Support (LTS) versions) of the above.
 If Node.js or MongoDB is already installed on your machine, run the following commands to validate the versions:
 
 ```shell
@@ -132,7 +132,7 @@ npm -v
 
 **I am having issues with installing the recommended Prerequisites. What should I do?**
 
-We regularly develop on popular and latest operating systems like macOS 10.12 or later, Ubuntu 16.04 or later and Windows 10. Its recommended to lookup your specific issue on resources like: Google, Stack Overflow or Stack Exchange. Chances are that someone has faced the same issue and there is already an answer to your specific query.
+We regularly develop on popular and latest operating systems like macOS 10.12 or later, Ubuntu 16.04 or later, and Windows 10. It's recommended to lookup your specific issue on resources like: Google, Stack Overflow or Stack Exchange. Chances are that someone has faced the same issue and there is already an answer to your specific query.
 
 If you are on a different OS, and/or are still running into issues, reach out to [contributors community on our public forum](https://www.freeCodeCamp.org/c/contributors) or the [Contributor's Chat room](https://gitter.im/freeCodeCamp/Contributors). We may be able to troubleshoot some common issues.
 
